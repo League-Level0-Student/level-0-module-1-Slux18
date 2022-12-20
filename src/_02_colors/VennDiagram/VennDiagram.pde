@@ -1,1 +1,12 @@
 size(600,600);
+fill(255,0,0,100);
+ellipse(300,300,215,215);
+fill(0,255,0,100);
+ellipse(200,150,215,215);
+fill(0,0,255,100);
+ellipse(400,150,215,215);
+fill(255,0,0,100);
+fill(0,0,0);
+text("anime",300,300);
+text("friends and family",200,150);
+text("sports",400,150);
